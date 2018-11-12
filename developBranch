@@ -1,0 +1,2 @@
+This is what we call a develop branch and in here we just commit code that we absolutely know is correct and that pass the test. Unit test
+is this case is a must and rule of thumb is that no code will be commited without unit test being present.
