@@ -1,4 +1,3 @@
 # www.ashcartridges.co.za
-Website for a Print Company
-
-This website is for printer repair and sales company
+Located in Eersteriver , Printer repairs, Cartridges Ink Refills
+Toner refills and replace, Quick turnaround time. 
